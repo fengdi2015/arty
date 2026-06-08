@@ -1,0 +1,200 @@
+target,modality,biomarker_context,indication_used_in_trial,representative_agent_or_program,status,success_summary,reference  
+ERBB2,ADC,HER2+ breast cancer,HER2-positive metastatic breast cancer,trastuzumab deruxtecan,success,Validated HER2 target with major clinical impact,FDA label; pivotal trial  
+EGFR,small molecule,activating EGFR mutation,EGFR-mutant advanced NSCLC,osimertinib,success,Standard EGFR-targeted therapy in mutant NSCLC,FDA label; pivotal trial  
+EGFR,biologic,exon20 insertion,EGFR exon20 insertion NSCLC,amivantamab,success,Approved biomarker-linked therapy for exon20 disease,FDA label; pivotal trial  
+ALK,small molecule,ALK fusion,ALK-rearranged NSCLC,alectinib,success,Established ALK inhibitor with strong CNS activity,FDA label; pivotal trial  
+ROS1,small molecule,ROS1 fusion,ROS1-rearranged NSCLC,entrectinib,success,Clinically validated ROS1 target in NSCLC,FDA label; pivotal trial  
+BRAF,small molecule,BRAF V600E,metastatic melanoma,vemurafenib,success,Classic driver-target success in melanoma,FDA label; pivotal trial  
+BRAF,small molecule,BRAF V600E,colorectal cancer,encorafenib plus cetuximab,success,Targeted combination established in BRAF-mutant CRC,FDA label; pivotal trial  
+BRAF,small molecule,BRAF V600E,NSCLC,dabrafenib plus trametinib,success,BRAF-targeted therapy validated in lung cancer,FDA label; pivotal trial  
+NTRK,fusion-targeted small molecule,NTRK fusion,solid tumors,larotrectinib,success,Tumor-agnostic fusion target with broad approval,FDA label; pivotal trial  
+RET,small molecule,RET fusion,RET fusion NSCLC,selpercatinib,success,Approved RET fusion therapy with strong efficacy,FDA label; pivotal trial  
+RET,small molecule,RET mutation,medullary thyroid cancer,selpercatinib,success,Validated RET-mutant thyroid cancer therapy,FDA label; pivotal trial  
+MET,small molecule,MET exon14 skipping,MET exon14 NSCLC,capmatinib,success,Actionable MET biomarker with approved therapy,FDA label; pivotal trial  
+IDH1,small molecule,IDH1 R132 mutation,AML,ivosidenib,success,Mutation-directed therapy in AML,FDA label; pivotal trial  
+IDH1,small molecule,IDH1 mutation,cholangiocarcinoma,ivosidenib,success,Approved in an IDH1-mutant solid tumor setting,FDA label; pivotal trial  
+IDH2,small molecule,IDH2 R140/R172 mutation,AML,enasidenib,success,Validated IDH2-targeted therapy,FDA label; pivotal trial  
+BRCA1/2,small molecule,HRD or BRCA loss,ovarian cancer,olaparib,success,Standard PARP inhibitor in BRCA-driven disease,FDA label; pivotal trial  
+BRCA1/2,small molecule,HRD or BRCA loss,breast cancer,olaparib,success,PARP inhibition validated in BRCA-mutant breast cancer,FDA label; pivotal trial  
+BRCA1/2,small molecule,HRD or BRCA loss,prostate cancer,olaparib,success,Approved in BRCA-mutant prostate cancer,FDA label; pivotal trial  
+MSI-H,disease biomarker,dMMR or MSI-H,tumor-agnostic,pembrolizumab,success,Tumor-agnostic immunotherapy landmark,FDA label; pivotal trial  
+dMMR,biologic,dMMR,endometrial cancer,dostarlimab,success,Validated checkpoint target in dMMR endometrial cancer,FDA label; pivotal trial  
+PD-1,biologic,PD-1 axis,melanoma,nivolumab,success,Core checkpoint success across multiple cancers,FDA label; pivotal trial  
+PD-1,biologic,PD-1 axis,NSCLC,pembrolizumab,success,Backbone checkpoint therapy in lung cancer,FDA label; pivotal trial  
+PD-L1,biologic,PD-L1 axis,extensive-stage SCLC,durvalumab,success,Approved in first-line ES-SCLC,FDA label; pivotal trial  
+PD-L1,biologic,PD-L1 axis,urothelial carcinoma,atezolizumab,success,Checkpoint therapy in bladder cancer contexts,FDA label; pivotal trial  
+CTLA-4,biologic,CTLA-4 axis,metastatic melanoma,ipilimumab,success,First approved immune checkpoint inhibitor,FDA label; pivotal trial  
+BCL2,small molecule,BCL2 dependence,CLL,venetoclax,success,Canonical apoptosis-targeting therapy in CLL,FDA label; pivotal trial  
+BTK,small molecule,BTK dependence,CLL,ibrutinib,success,Foundational kinase target in B-cell malignancy,FDA label; pivotal trial  
+BTK,small molecule,BTK dependence,mantle cell lymphoma,zanubrutinib,success,Validated BTK inhibitor in lymphoma,FDA label; pivotal trial  
+CDK4/6,small molecule,cell-cycle dependence,HR+/HER2- breast cancer,ribociclib,success,Standard-of-care cell-cycle inhibitor,FDA label; pivotal trial  
+PARP,small molecule,homologous recombination deficiency,ovarian cancer,niraparib,success,Established maintenance strategy in ovarian cancer,FDA label; pivotal trial  
+PARP,small molecule,homologous recombination deficiency,breast cancer,talazoparib,success,Validated PARP option in BRCA-mutant disease,FDA label; pivotal trial  
+PARP,small molecule,homologous recombination deficiency,prostate cancer,rucaparib,success,Approved PARP strategy in BRCA-mutant prostate cancer,FDA label; pivotal trial  
+FLT3,small molecule,FLT3 mutation,AML,gilteritinib,success,Validated FLT3-mutant AML therapy,FDA label; pivotal trial  
+KIT,small molecule,KIT mutation,GIST,imatinib,success,Classic precision oncology target in GIST,FDA label; pivotal trial  
+KIT,small molecule,KIT mutation,mastocytosis,avapritinib,success,Actionable KIT target in mast cell disease,FDA label; pivotal trial  
+FGFR2,small molecule,FGFR2 fusion,cholangiocarcinoma,pemigatinib,success,Approved biomarker-selected FGFR therapy,FDA label; pivotal trial  
+FGFR3,small molecule,FGFR3 alteration,urothelial carcinoma,erdafitinib,success,Validated FGFR3-targeted therapy,FDA label; pivotal trial  
+PIK3CA,small molecule,PIK3CA mutation,HR+/HER2- breast cancer,alpelisib,success,Approved mutation-linked PI3K therapy,FDA label; pivotal trial  
+ESR1,small molecule,ESR1 mutation,ER+ breast cancer,elacestrant,success,Approved endocrine therapy for ESR1-mutant disease,FDA label; pivotal trial  
+ERBB2,ADC,HER2-low breast cancer,metastatic breast cancer,trastuzumab deruxtecan,success,Biomarker expansion created a new clinical niche,FDA label; pivotal trial  
+ERBB2,biologic,HER2-positive breast cancer,breast cancer,trastuzumab,success,Foundational HER2 antibody with enduring benefit,FDA label; pivotal trial  
+ERBB2,biologic,HER2-positive gastric cancer,gastric or GEJ adenocarcinoma,trastuzumab,success,Established HER2 therapy beyond breast cancer,FDA label; pivotal trial  
+BCMA,cell therapy / bispecific,BCMA expression,multiple myeloma,idecabtagene vicleucel,success,Validated plasma-cell target for CAR-T and bispecifics,FDA label; pivotal trial  
+CD19,cell therapy,CD19 expression,B-ALL,tisagenlecleucel,success,Canonical CAR-T target in B-cell leukemia,FDA label; pivotal trial  
+CD19,cell therapy,CD19 expression,DLBCL,axi-cel,success,Validated CAR-T target in aggressive lymphoma,FDA label; pivotal trial  
+CD22,ADC / cell therapy,CD22 expression,B-ALL,inotuzumab ozogamicin,success,Approved B-cell antigen target in leukemia,FDA label; pivotal trial  
+CD79b,ADC,CD79b expression,DLBCL,polatuzumab vedotin,success,Approved ADC target in lymphoma,FDA label; pivotal trial  
+CD38,biologic,CD38 expression,multiple myeloma,daratumumab,success,Core myeloma target with broad adoption,FDA label; pivotal trial  
+SLAMF7,biologic,SLAMF7 expression,multiple myeloma,elotuzumab,success,Established myeloma immunotherapy target,FDA label; pivotal trial  
+TROP2,ADC,TROP2 expression,breast cancer,sacituzumab govitecan,success,Validated ADC target in breast cancer,FDA label; pivotal trial  
+PSMA,radioligand,PSMA expression,mCRPC,Lutetium Lu 177 vipivotide tetraxetan,success,Key precision target in prostate radioligand therapy,FDA label; pivotal trial  
+SSTR2,radioligand / peptide,SSTR2 expression,neuroendocrine tumor,octreotide or Lu177-dotatate,success,Canonical neuroendocrine target,FDA label; pivotal trial  
+GPRC5D,cell therapy / bispecific,GPRC5D expression,multiple myeloma,talquetamab,success,Validated new myeloma target,FDA label; pivotal trial  
+EZH2,small molecule,EZH2 activation,follicular lymphoma,tazemetostat,success,Approved epigenetic therapy in lymphoma,FDA label; pivotal trial  
+MEN1 / menin,small molecule,KMT2A or NPM1 context,AML,revumenib,success,Clinically validated differentiation therapy,FDA label; pivotal trial  
+LAG3,biologic,LAG3 axis,melanoma,relatlimab,success,Approved next-generation checkpoint target,FDA label; pivotal trial  
+Nectin-4,ADC,Nectin-4 expression,urothelial carcinoma,enfortumab vedotin,success,Established ADC target in bladder cancer,FDA label; pivotal trial  
+Tissue factor,ADC,Tissue factor expression,cervical cancer,tisotumab vedotin,success,Validated ADC target in cervical cancer,FDA label; pivotal trial  
+FOLR1,ADC,Folate receptor alpha expression,ovarian cancer,mirvetuximab soravtansine,success,Approved biomarker-selected ovarian cancer therapy,FDA label; pivotal trial  
+CD30,ADC,CD30 expression,Hodgkin lymphoma,brentuximab vedotin,success,Canonical lymphoma ADC target,FDA label; pivotal trial  
+CD20,biologic,CD20 expression,B-cell lymphoma,rituximab,success,Foundational antibody target in B-cell malignancy,FDA label; pivotal trial  
+VEGF,biologic,angiogenesis,metastatic colorectal cancer,bevacizumab,success,Established anti-angiogenic therapy,FDA label; pivotal trial  
+AR,small molecule,androgen receptor dependence,prostate cancer,enzalutamide,success,Core target in prostate cancer,FDA label; pivotal trial  
+PML-RARA,small molecule / differentiation therapy,PML-RARA fusion,acute promyelocytic leukemia,ATRA plus arsenic trioxide,success,Landmark fusion-targeted differentiation therapy,FDA label; pivotal trial  
+BCR-ABL,small molecule,BCR-ABL fusion,CML,imatinib,success,Prototype target-driven oncology success,FDA label; pivotal trial  
+KRAS G12D,small molecule,KRAS G12D,solid tumors,MRTX1133,ongoing,First wave mutant-selective KRAS G12D programs are in development,ClinicalTrials.gov; 2025 review  
+SHP2,small molecule,RAS pathway dependency,KRAS-driven tumors,TNO155,ongoing,Important signaling-node target mainly in combinations,ClinicalTrials.gov; 2025 review  
+SOS1,small molecule,RAS pathway dependency,KRAS-mutant tumors,MRTX0902,ongoing,Upstream RAS inhibition remains investigational,ClinicalTrials.gov; 2025 review  
+MDM2,small molecule,TP53 wild-type tumors,solid tumors,navtemadlin,ongoing,p53 reactivation strategy remains active,ClinicalTrials.gov; 2025 review  
+WEE1,small molecule,replication stress or TP53 loss,solid tumors,adavosertib,ongoing,Checkpoint strategy under biomarker selection,ClinicalTrials.gov; 2025 review  
+ATR,small molecule,DDR deficiency,solid tumors,ceralasertib,ongoing,Key replication-stress target with active studies,ClinicalTrials.gov; 2025 review  
+CHK1,small molecule,S-phase checkpoint dependence,solid tumors,prexasertib,ongoing,Checkpoint targeting remains investigational,ClinicalTrials.gov; 2025 review  
+POLQ,small molecule,HR deficiency,solid tumors,ART558 or ART4215,ongoing,Synthetic-lethality target moving toward clinic,ClinicalTrials.gov; 2025 review  
+PRMT5,small molecule,MTAP deletion,solid tumors,MRTX1719 or AMG 193,ongoing,One of the most active synthetic-lethality programs,ClinicalTrials.gov; 2025 review  
+MAT2A,small molecule,MTAP deletion,solid tumors,MAT2A inhibitors,ongoing,Complementary partner to PRMT5 targeting,ClinicalTrials.gov; 2025 review  
+CDK2,small molecule,CCNE1 amplification,solid tumors,CDK2 inhibitors,ongoing,Cell-cycle target for CCNE1-amplified disease,ClinicalTrials.gov; 2025 review  
+CDK7,small molecule,transcriptional addiction,solid tumors,CDK7 inhibitors,ongoing,Transcriptional kinase remains in early development,ClinicalTrials.gov; 2025 review  
+CDK9,small molecule,MYC-driven or transcriptional addiction,solid tumors and leukemia,CDK9 inhibitors,ongoing,Promising transcriptional target but immature clinically,ClinicalTrials.gov; 2025 review  
+BET/BRD4,small molecule,MYC-driven tumors,solid tumors and leukemia,BET inhibitors,ongoing,Epigenetic transcriptional target under study,ClinicalTrials.gov; 2025 review  
+LSD1,small molecule,epigenetic reprogramming,AML,iadademstat,ongoing,Epigenetic target with continuing leukemia studies,ClinicalTrials.gov; 2025 review  
+MCL1,small molecule,anti-apoptotic dependency,myeloma and leukemia,MCL1 inhibitors,ongoing,Strong rationale but safety remains challenging,ClinicalTrials.gov; 2025 review  
+AXL,small molecule,drug resistance context,NSCLC and solid tumors,AXL inhibitors,ongoing,Resistance-linked target in multiple programs,ClinicalTrials.gov; 2025 review  
+HER3,ADC / biologic,HER3 expression,breast and lung cancer,patritumab deruxtecan,ongoing,Resistance-associated receptor with active clinical work,ClinicalTrials.gov; 2025 review  
+DLL3,biologic / ADC / cell therapy,DLL3 expression,SCLC,tarlatamab,ongoing,Important neuroendocrine target with multiple modalities,ClinicalTrials.gov; 2025 review  
+B7-H3,ADC / cell therapy,B7-H3 expression,solid tumors,B7-H3 programs,ongoing,High-interest solid tumor antigen,ClinicalTrials.gov; 2025 review  
+CLDN6,cell therapy / vaccine,CLDN6 expression,solid tumors,CLDN6 programs,ongoing,Embryonic antigen with early signals in solid tumors,ClinicalTrials.gov; 2025 review  
+CLDN18.2,ADC / antibody,CLDN18.2 expression,gastric and GEJ cancer,zolbetuximab or CT041,ongoing,GI target with active ADC and CAR-T development,ClinicalTrials.gov; 2025 review  
+GPC3,cell therapy / ADC,GPC3 expression,HCC,GPC3 programs,ongoing,Classic HCC antigen remains actively studied,ClinicalTrials.gov; 2025 review  
+Mesothelin,cell therapy / ADC,mesothelin expression,ovarian and pancreatic cancer,mesothelin programs,ongoing,Longstanding solid tumor target with active development,ClinicalTrials.gov; 2025 review  
+ROR1,cell therapy / ADC,ROR1 expression,CLL and solid tumors,ROR1 programs,ongoing,Oncofetal antigen with active early studies,ClinicalTrials.gov; 2025 review  
+CD70,cell therapy / ADC,CD70 expression,RCC and AML,CD70 programs,ongoing,Myeloid and solid tumor target under development,ClinicalTrials.gov; 2025 review  
+CD123,cell therapy / ADC,CD123 expression,AML,CD123 programs,ongoing,Myeloid antigen with active cellular therapy development,ClinicalTrials.gov; 2025 review  
+CLEC12A,cell therapy,CLEC12A expression,AML,CLEC12A CAR-T,ongoing,High-interest AML antigen,ClinicalTrials.gov; 2025 review  
+FAP,cell therapy / radioligand,FAP expression,stroma-rich solid tumors,FAP programs,ongoing,Stromal target under broad investigation,ClinicalTrials.gov; 2025 review  
+CEACAM5,ADC / bispecific,CEACAM5 expression,GI and lung adenocarcinoma,CEACAM5 programs,ongoing,Resurgent antigen with newer modalities,ClinicalTrials.gov; 2025 review  
+STEAP1,cell therapy / ADC,STEAP1 expression,prostate cancer,STEAP1 programs,ongoing,Prostate-associated antigen under active study,ClinicalTrials.gov; 2025 review  
+PSCA,cell therapy,PSCA expression,prostate cancer,PSCA CAR-T programs,ongoing,Prostate target remains investigational,ClinicalTrials.gov; 2025 review  
+CXCR4,small molecule / peptide,CXCR4 axis,myeloma and hematologic malignancies,CXCR4 antagonists,ongoing,Trafficking target with active oncology studies,ClinicalTrials.gov; 2025 review  
+TIGIT,biologic,TIGIT axis,solid tumors,TIGIT antibodies,ongoing,Next-generation checkpoint with mixed early results,ClinicalTrials.gov; 2025 review  
+NKG2A,biologic,NKG2A axis,solid tumors,monalizumab,ongoing,Checkpoint target under combination development,ClinicalTrials.gov; 2025 review  
+TIM3,biologic,TIM3 axis,solid tumors and leukemia,TIM3 antibodies,ongoing,Immune checkpoint target in early trials,ClinicalTrials.gov; 2025 review  
+VISTA,biologic,VISTA axis,solid tumors,VISTA antibodies,ongoing,Emerging checkpoint target,ClinicalTrials.gov; 2025 review  
+IL13Rα2,cell therapy,IL13Rα2 expression,glioblastoma,IL13Rα2 CAR-T,ongoing,Neuro-oncology antigen with repeated clinical testing,ClinicalTrials.gov; 2025 review  
+CAIX,cell therapy / antibody,CAIX expression,renal cell carcinoma,CAIX programs,ongoing,Renal target still in clinical exploration,ClinicalTrials.gov; 2025 review  
+CD47,biologic,CD47 axis,AML and solid tumors,CD47 blockers,ongoing,Immune-evasion target with mixed outcomes,ClinicalTrials.gov; 2025 review  
+CD24,cell therapy / biologic,CD24 expression,epithelial cancers,CD24 programs,ongoing,Emerging immune-evasion antigen,ClinicalTrials.gov; 2025 review  
+EGFRvIII,cell therapy / vaccine,EGFRvIII expression,glioblastoma,EGFRvIII programs,ongoing,Neuro-oncology variant target under study,ClinicalTrials.gov; 2025 review  
+MUC1-C,cell therapy / ADC,MUC1-C expression,epithelial tumors,MUC1-C programs,ongoing,Pan-cancer antigen remains an active development area,ClinicalTrials.gov; 2025 review  
+MUC16,cell therapy / ADC,MUC16 expression,ovarian cancer,MUC16 programs,ongoing,Large ovarian antigen with ongoing work,ClinicalTrials.gov; 2025 review  
+CD133,cell therapy,CD133 expression,HCC,CD133 CAR-T,ongoing,Stem-like antigen in early testing,ClinicalTrials.gov; 2025 review  
+EpCAM,cell therapy / ADC,EpCAM expression,epithelial tumors,EpCAM programs,ongoing,Classic epithelial target remains investigational,ClinicalTrials.gov; 2025 review  
+TROP2,ADC,TROP2 expression,NSCLC,TROP2 ADC programs,ongoing,Strong antigen with broader tumor exploration,ClinicalTrials.gov; 2025 review  
+HER2,small molecule,HER2 mutation,HER2-mutant NSCLC,HER2-targeted TKIs,ongoing,Mutation-directed HER2 lung programs are maturing,ClinicalTrials.gov; 2025 review  
+ERBB2,biomarker,HER2-positive colorectal cancer,colorectal cancer,HER2-targeted combinations,ongoing,Higher-complexity HER2 CRC strategies remain active,ClinicalTrials.gov; 2025 review  
+FGFR1,small molecule,FGFR1 amplification,breast and lung cancer,FGFR inhibitors,ongoing,Amplification-selected strategies still developing,ClinicalTrials.gov; 2025 review  
+BRAF,small molecule,BRAF fusion,solid tumors,BRAF/MEK programs,ongoing,Fusion-driven BRAF biology is still under study,ClinicalTrials.gov; 2025 review  
+KRAS,small molecule,KRAS G12D,pancreatic cancer,KRAS G12D inhibitors,ongoing,Pancreatic programs are a major KRAS G12D focus,ClinicalTrials.gov; 2025 review  
+TP53,small molecule,TP53 Y220C,solid tumors,p53 reactivators,ongoing,Mutation-specific p53 restoration remains early,ClinicalTrials.gov; 2025 review  
+TEAD / YAP,small molecule,Hippo pathway activation,solid tumors,TEAD inhibitors,ongoing,Transcriptional co-activator targeting is emerging,ClinicalTrials.gov; 2025 review  
+Wnt/beta-catenin,small molecule,canonical Wnt activation,colorectal and solid tumors,porcupine or beta-catenin inhibitors,ongoing,Wnt targeting remains clinically immature,ClinicalTrials.gov; 2025 review  
+Notch,small molecule,Notch pathway dysregulation,solid tumors,Notch inhibitors,ongoing,Pathway remains an exploratory target,ClinicalTrials.gov; 2025 review  
+TGF-beta,biologic,TGF-beta signaling,solid tumors,TGF-beta inhibitors,ongoing,Microenvironment target still under evaluation,ClinicalTrials.gov; 2025 review  
+PI3K-beta,small molecule,PTEN loss,solid tumors,PI3K-beta inhibitors,ongoing,PTEN-selected PI3K strategies remain active,ClinicalTrials.gov; 2025 review  
+AKT,small molecule,PI3K-AKT pathway activation,solid tumors,AKT inhibitors,ongoing,Downstream pathway targeting continues,ClinicalTrials.gov; 2025 review  
+mTOR,small molecule,mTOR pathway activation,solid tumors,mTOR inhibitors,ongoing,Legacy pathway target still being optimized,ClinicalTrials.gov; 2025 review  
+AURKA,small molecule,mitotic stress,solid tumors,alisertib,ongoing,Mitotic kinase target with limited but ongoing study,ClinicalTrials.gov; 2025 review  
+PLK1,small molecule,mitotic stress,solid tumors,PLK1 inhibitors,ongoing,Mitosis-targeting strategy remains investigational,ClinicalTrials.gov; 2025 review  
+HIF2A,small molecule,hypoxia pathway,other tumors,belzutifan combinations,ongoing,Hypoxia axis being extended beyond VHL disease,ClinicalTrials.gov; 2025 review  
+OXPHOS,small molecule,metabolic dependency,solid tumors,OXPHOS inhibitors,ongoing,Metabolic targeting is still exploratory,ClinicalTrials.gov; 2025 review  
+Glutaminase,small molecule,glutamine dependence,solid tumors,glutaminase inhibitors,ongoing,Metabolic target remains under investigation,ClinicalTrials.gov; 2025 review  
+A2A receptor,biologic,adenosine axis,solid tumors,A2A inhibitors,ongoing,Adenosine immunometabolism target in early studies,ClinicalTrials.gov; 2025 review  
+CSF1R,small molecule,TAM macrophage axis,solid tumors,CSF1R inhibitors,ongoing,Myeloid microenvironment target under study,ClinicalTrials.gov; 2025 review  
+CCR2/CCR5,small molecule,chemokine axis,solid tumors,CCR2 or CCR5 inhibitors,ongoing,Inflammatory trafficking targets remain exploratory,ClinicalTrials.gov; 2025 review  
+SIRPalpha,biologic,phagocytosis checkpoint,solid tumors,SIRPalpha blockers,ongoing,Innate immunity checkpoint under active development,ClinicalTrials.gov; 2025 review  
+LILRB2,biologic,myeloid checkpoint,solid tumors,LILRB2 inhibitors,ongoing,Myeloid checkpoint target remains investigational,ClinicalTrials.gov; 2025 review  
+HSP90,small molecule,protein chaperone dependency,various solid tumors,ganetespib,failure,Durable late-stage benefit has not been achieved,Historical negative trial; review  
+IGF1R,biologic / small molecule,IGF signaling,unselected solid tumors and sarcoma,figitumumab,failure,Classic late-stage negative target outside narrow contexts,Historical negative trial; review  
+EGFR,small molecule,unselected NSCLC,unselected advanced NSCLC,gefitinib,failure,Biomarker mismatch led to poor generalizable benefit,Historical negative trial; review  
+PD-1,biologic,MSS or pMMR colorectal cancer,metastatic colorectal cancer,pembrolizumab monotherapy,failure,Checkpoint monotherapy is generally ineffective in MSS CRC,Negative trial; review  
+VEGF,biologic,unselected breast cancer,metastatic HER2-negative breast cancer,bevacizumab,failure,Breast cancer indication was withdrawn after confirmatory failure,FDA withdrawn approvals; negative trial  
+PDGFR-alpha,biologic,soft tissue sarcoma,soft tissue sarcoma,olaratumab,failure,Confirmatory failure led to withdrawal,FDA withdrawn approvals; negative trial  
+EGFR,small molecule,exon20 insertion after withdrawal,NSCLC,mobocertinib,failure,Accelerated approval withdrawn after confirmatory issues,FDA withdrawn approvals; negative trial  
+FGFR2,small molecule,cholangiocarcinoma after withdrawal,cholangiocarcinoma,infigratinib,failure,Withdrawal followed failure to maintain approval,FDA withdrawn approvals; negative trial  
+PI3K,small molecule,follicular lymphoma after withdrawal,follicular lymphoma,copanlisib,failure,Confirmatory benefit was not sufficient for continued approval,FDA withdrawn approvals; negative trial  
+BCMA,ADC,BCMA expression after withdrawal,multiple myeloma,belantamab mafodotin,failure,Marketed indication was withdrawn after confirmatory issues,FDA withdrawn approvals; negative trial  
+XPO1,small molecule,DLBCL,xDLBCL or relapsed DLBCL,selinexor,failure,Target context in lymphoma did not establish broad durable benefit,Negative trial; review  
+IGF1R,biologic,solid tumors,fixed unselected settings,cixutumumab,failure,Repeated late-stage failures prevented adoption,Historical negative trial; review  
+IDO1,small molecule,PD-1 resistance context,melanoma,epacadostat,failure,Promising rationale but confirmatory failure,Negative trial; review  
+CD27,biologic,T-cell co-stimulation,solid tumors,varlilumab,failure,Development stalled after limited efficacy,Negative trial; review  
+4-1BB,biologic,immune co-stimulation,solid tumors,urelumab,failure,High-dose toxicity limited development,Negative trial; review  
+DLL3,ADC,SCLC,DLL3-high SCLC,rovalpituzumab tesirine,failure,Target validation did not translate into clinical success,Negative trial; review  
+SMO,small molecule,hedgehog signaling outside BCC,non-BCC solid tumors,vismodegib,failure,Pathway targeting failed to generalize beyond validated indications,Negative trial; review  
+Porcupine,small molecule,Wnt activation,colorectal cancer,Wnt inhibitors,failure,Clinical efficacy has been limited in broad CRC settings,Negative trial; review  
+Notch,small molecule,Notch pathway,solid tumors,Notch inhibitors,failure,Toxicity and limited efficacy curtailed broad success,Negative trial; review  
+TGF-beta,biologic,unselected solid tumors,solid tumors,TGF-beta monotherapy,failure,Single-agent benefit has been difficult to demonstrate,Negative trial; review  
+BCL-XL,small molecule,anti-apoptotic dependency,solid tumors,BCL-XL inhibitors,failure,On-target thrombocytopenia has limited development,Toxicity-limited; review  
+MCL1,small molecule,anti-apoptotic dependency,myeloma and leukemia,MCL1 inhibitors,failure,On-target safety liabilities have constrained progress,Toxicity-limited; review  
+panobinostat,epigenetic,unselected myeloma,multiple myeloma,panobinostat,failure,Benefit was insufficient for durable broad adoption,FDA withdrawn approvals; negative trial  
+Gemtuzumab ozogamicin,ADC,CD33 expression after initial approval,AML,gemtuzumab ozogamicin initial formulation,failure,Historical withdrawal after confirmatory concerns,FDA withdrawn approvals; negative trial  
+Bexxar,radioimmunotherapy,CD20 expression,indolent NHL,tositumomab,failure,Product withdrawn from market,Market withdrawal; review  
+Zevalin,radioimmunotherapy,CD20 expression,indolent NHL,ibritumomab tiuxetan,failure,Commercial uptake and long-term positioning were limited,Market withdrawal; review  
+Marqibo,liposomal chemotherapy,ALL,adult ALL,vincristine sulfate liposome,failure,Confirmatory failure and withdrawal context,FDA withdrawn approvals; negative trial  
+Farydak,epigenetic,unselected myeloma,multiple myeloma,panobinostat,failure,Withdrawal context reflects limited clinical value,FDA withdrawn approvals; negative trial  
+Zydelig,small molecule,follicular lymphoma after withdrawal,follicular lymphoma,idelalisib,failure,Regulatory history includes withdrawal of some indications,FDA withdrawn approvals; negative trial  
+Copiktra,small molecule,follicular lymphoma after withdrawal,follicular lymphoma,duvelisib,failure,Withdrawal context due to confirmatory issues,FDA withdrawn approvals; negative trial  
+Exkivity,small molecule,EGFR exon20 insertion after withdrawal,NSCLC,mobocertinib,failure,Withdrawn because confirmatory benefit was not established,FDA withdrawn approvals; negative trial  
+Truseltiq,small molecule,FGFR2 fusion after withdrawal,cholangiocarcinoma,infigratinib,failure,Withdrawal reflects limited confirmatory support,FDA withdrawn approvals; negative trial  
+Gavreto,small molecule,RET mutation or fusion after withdrawal,thyroid cancer or NSCLC,pralsetinib,failure,Regulatory status has faced indication changes,FDA withdrawn approvals; negative trial  
+Tecentriq,biologic,urothelial carcinoma after withdrawal,urothelial carcinoma,atezolizumab,failure,Some urothelial indications were withdrawn after confirmatory failure,FDA withdrawn approvals; negative trial  
+Imfinzi,biologic,urothelial carcinoma after withdrawal,urothelial carcinoma,durvalumab,failure,Withdrawal context in urothelial indications,FDA withdrawn approvals; negative trial  
+Keytruda,biologic,SCLC after withdrawal,small-cell lung cancer,pembrolizumab,failure,Accelerated approval pathway required confirmatory support,FDA withdrawn approvals; negative trial  
+Opdivo,biologic,HCC after withdrawal,hepatocellular carcinoma,nivolumab,failure,Regulatory history includes withdrawn indication context,FDA withdrawn approvals; negative trial  
+Lartruvo,biologic,PDGFR-alpha positive soft tissue sarcoma,soft tissue sarcoma,olaratumab,failure,Confirmatory failure ended clinical use,FDA withdrawn approvals; negative trial  
+Avastin,biologic,HER2-negative breast cancer,metastatic breast cancer,bevacizumab,failure,Historical indication withdrawal in breast cancer,FDA withdrawn approvals; negative trial  
+CD47,biologic,AML and solid tumors,AML,magrolimab,failure,Program did not achieve durable late-stage success,Negative trial; review  
+CD47,biologic,solid tumors,solid tumors,Hu5F9-G4,failure,Clinical development has been limited by mixed outcomes,Negative trial; review  
+ALK,small molecule,ALK-negative NSCLC,NSCLC,ALK inhibitors,failure,Biomarker mismatch leads to lack of benefit,Negative trial; review  
+RET,small molecule,RET-negative NSCLC,NSCLC,RET inhibitors,failure,No target no benefit in negative biomarker setting,Negative trial; review  
+NTRK,small molecule,NTRK-negative tumors,unselected solid tumors,NTRK inhibitors,failure,Target absence predicts lack of activity,Negative trial; review  
+ERBB2,biologic,HER2-negative breast cancer,breast cancer,HER2 antibody therapy,failure,Lack of HER2 biomarker undermines efficacy,Negative trial; review  
+PARP,small molecule,BRCA-wildtype ovarian cancer,ovarian cancer,PARP inhibitors,failure,Benefit is much weaker outside HRD contexts,Negative trial; review  
+CDK4/6,small molecule,RB-loss breast cancer,breast cancer,CDK4/6 inhibitors,failure,RB loss is a known resistance setting,Negative trial; review  
+FLT3,small molecule,FLT3-wildtype AML,AML,FLT3 inhibitors,failure,Target absence predicts lack of benefit,Negative trial; review  
+BRAF,small molecule,BRAF-wildtype melanoma,melanoma,BRAF inhibitors,failure,No driver mutation no targetable benefit,Negative trial; review  
+PD-1,biologic,MSS colorectal cancer,metastatic colorectal cancer,PD-1 monotherapy,failure,Checkpoint monotherapy remains ineffective in this setting,Negative trial; review  
+EGFR,small molecule,KRAS-mutant colorectal cancer,colorectal cancer,EGFR inhibitors,failure,KRAS mutation predicts non-response,Negative trial; review  
+PI3K,small molecule,unselected breast cancer,breast cancer,PI3K inhibitors,failure,Unselected populations dilute biomarker-linked benefit,Negative trial; review  
+Metformin,small molecule,advanced solid tumors,solid tumors,metformin repurposing,failure,Repurposing effort has not shown robust oncology efficacy,Negative trial; review  
+IDH1,small molecule,IDH-wildtype tumors,solid tumors,IDH1 inhibitors,failure,No biomarker no meaningful target engagement,Negative trial; review  
+BCMA,cell therapy,BCMA-low myeloma,multiple myeloma,BCMA CAR-T,failure,Low antigen density can undermine response,Negative trial; review  
+CLDN18.2,biologic,CLDN18.2-negative gastric cancer,gastric cancer,CLDN18.2 antibodies,failure,Target absence predicts lack of efficacy,Negative trial; review  
+PSMA,radioligand,PSMA-low prostate cancer,prostate cancer,PSMA radioligand therapy,failure,Low target expression limits activity,Negative trial; review  
+SSTR2,radioligand / peptide,SSTR2-negative tumors,non-NET solid tumors,SSTR2-directed therapy,failure,Target absence prevents clinical usefulness,Negative trial; review  
+CD19,cell therapy,T-cell leukemia,T-cell leukemia,CD19 CAR-T,failure,Lineage mismatch limits target validity,Negative trial; review  
+CD22,ADC / cell therapy,CD22-negative ALL,ALL,CD22-directed therapy,failure,Target-negative disease is not responsive,Negative trial; review  
+TROP2,ADC,TROP2-low lung cancer,NSCLC,TROP2 ADCs,failure,Low antigen density can limit ADC benefit,Negative trial; review  
+EGFR,small molecule,post-withdrawal exon20 program,NSCLC,mobocertinib,failure,Withdrawal reflects limited confirmatory success,FDA withdrawn approvals; negative trial  
+MET,small molecule,MET-negative NSCLC,NSCLC,MET inhibitors,failure,Without MET alteration benefit is limited,Negative trial; review  
+HSP90,small molecule,refractory solid tumors,solid tumors,ganetespib,failure,Classical example of limited durable efficacy,Negative trial; review  
